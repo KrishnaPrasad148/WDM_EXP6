@@ -97,7 +97,7 @@ Register No. : 212223230108
     print("The highest rank cosine score is:", highest_rank_score)
 
 ### Output:
-<img width="300" height="45" alt="query" src="https://github.com/user-attachments/assets/a40c6233-3cbf-4cb4-b3e0-b53bb7384c5e" />
+<img width="316" height="110" alt="query2" src="https://github.com/user-attachments/assets/6a3c4a2f-c531-48e6-b9cb-d87c8c17e4dd" />
 <img width="508" height="535" alt="output" src="https://github.com/user-attachments/assets/14596c43-441e-4f25-bbe3-4116f872793f" />
 
 ### Result:
